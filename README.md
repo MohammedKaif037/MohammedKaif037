@@ -1,5 +1,5 @@
 # 💫 About Me:
-Im currently working on Django-Job Portal Project<br>Im looking to collaborate and learn with other Python devs/Programmers<br>Im currently learning Django<br>Python Enthusiast :)<br>Ask me about Python programming, Django development, job portal project, gaming, drawing, or books<br>Reach out to me :kaifmohammed037@gmail.com<br>
+Im currently working on ANILIST-API powered APP <br>Im looking to collaborate and learn with other Python devs/Programmers<br>Im currently learning Django<br>Python Enthusiast :)<br>Ask me about Python programming, Django development, job portal project, gaming, drawing, or books<br>Reach out to me :kaifmohammed037@gmail.com<br>
 
 
 ## 🌐 Socials:
