@@ -77,6 +77,11 @@ Kalpataru Institute of Technology | CGPA: 8.29/10 (2019-2023)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohammedKaif037&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 ---
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedKaif037&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## GitHub Contributions
+
+![Kaif's GitHub Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=MohammedKaif037&theme=react-dark)
+
+
 
 ## 😄 Latest Dev Meme  
 ![Dev Meme](https://preview.redd.it/va91go15ogyc1.png?width=1080&crop=smart&auto=webp&s=224bc03863b09bdd9456bb1631dd3df446a39482)
