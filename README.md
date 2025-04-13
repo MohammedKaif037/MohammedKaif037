@@ -1,23 +1,91 @@
-# 💫 About Me:
-Im currently working on PortFolio <br>Im looking to collaborate and learn with other Java devs/Programmers<br>Im currently using SpringBoot<br>AI Enthusiast :)<br>Ask me about Python programming, Django development, job portal project, gaming, drawing, or books<br>Reach out to me :kaifmohammed037@gmail.com<br>
+# Mohammed Kaif  
+![Profile Views](https://visitcount.itsvg.in/api?id=MohammedKaif037&icon=0&color=0)
 
+## 🌟 About Me  
+Java Developer | Spring Boot Enthusiast | AI Explorer  
+📍 Bangalore, India  
+📧 [kaifmohammed037@gmail.com](mailto:kaifmohammed037@gmail.com)  
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammed-kaif-a7793923a)
-[![HackerRank](https://img.shields.io/badge/HackerRank-kaifmohammed037-green)](https://www.hackerrank.com/profile/kaifmohammed037)
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MohammedKaif037&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=MohammedKaif037&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedKaif037&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### 😂 Random Dev Meme
-<img src='https://preview.redd.it/va91go15ogyc1.png?width=1080&crop=smart&auto=webp&s=224bc03863b09bdd9456bb1631dd3df446a39482' style="height: 400px;"/>
+Seeking challenging opportunities to leverage analytical and problem-solving skills in client-centric projects. Currently focused on:  
+✅ Building scalable microservices with Spring Boot  
+✅ Optimizing CI/CD pipelines with Jenkins & Docker  
+✅ Exploring Generative AI applications  
 
 ---
-[![](https://visitcount.itsvg.in/api?id=MohammedKaif037&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https:
-//gprm.itsvg.in ) -->
+## 🚀 Professional Experience  
+**Java Developer** @ AIROBOSOFT Products and Services LLP  
+*Nov 2022 - Mar 2025*  
+- Architected microservices using **Spring Boot 2.x** and **Cassandra**, improving system scalability by 40%  
+- Achieved 90% test coverage using **JUnit/Mockito** and reduced production downtime by 40%  
+- Implemented **Docker/Kubernetes** deployments and optimized **Jenkins** pipelines  
+- Led database query optimization, boosting API performance by 25%  
+
+---
+
+## 📌 Key Projects  
+**PDAL QVC** (Qurate Retail Group)  
+*Nov 2022 - Mar 2025*  
+- Migrated monolithic architecture to microservices with **Cassandra** integration  
+- Developed REST APIs using **Spring Data JPA** and implemented messaging via **IBM MQ**  
+- Automated deployment workflows using **Jenkins** and **JIRA** for agile tracking  
+
+---
+
+## 💻 Tech Stack  
+**Languages & Frameworks:**  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)  
+
+**Databases:**  
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  
+![Cassandra](https://img.shields.io/badge/Cassandra-1287B2?style=for-the-badge&logo=apache-cassandra&logoColor=white)  
+
+**DevOps:**  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)  
+
+**Tools:**  
+![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+
+---
+
+## 🎓 Education & Certifications  
+**B.E. in ISE**  
+Kalpataru Institute of Technology | CGPA: 8.29/10 (2019-2023)  
+
+**Certifications:**  
+- Generative AI - Microsoft Prompt Engineering  
+- AI Introduction - DevTown  
+
+---
+
+## 🌐 Connect With Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammed-kaif-a7793923a)  
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/kaifmohammed037)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohammedKaif037)  
+
+---
+
+## 📊 GitHub Insights  
+
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=MohammedKaif037&theme=dark)  
+
+---
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohammedKaif037&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+---
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedKaif037&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+# My Contributions
+Here is my GitHub contribution graph:
+
+![GitHub Contribution Graph](https://github-contribution-graph.ez4o.com/?username=MohammedKaif037&last_n_days=365)
+
+
+
+## 😄 Latest Dev Meme  
+![Dev Meme](https://preview.redd.it/va91go15ogyc1.png?width=1080&crop=smart&auto=webp&s=224bc03863b09bdd9456bb1631dd3df446a39482)
+
+<!-- Generated with enhancements from GitHub README best practices [[3]][[2]] -->
+
