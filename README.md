@@ -74,7 +74,8 @@ Kalpataru Institute of Technology | CGPA: 8.29/10 (2019-2023)
 
 ---
 
-[![Your GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MohammedKaif037&theme=default)](https://github-readme-activity-graph.vercel.app)
+![GitHub Contribution Chart](https://github-contributions.vercel.app/MohammedKaif037.svg)
+
 
 ## 😄 Latest Dev Meme  
 ![Dev Meme](https://preview.redd.it/va91go15ogyc1.png?width=1080&crop=smart&auto=webp&s=224bc03863b09bdd9456bb1631dd3df446a39482)
