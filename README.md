@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm **Mohammed Kaif**, a passionate and results-driven **Java Full Stack Developer** currently working at **Airobosoft Products and Services LLP**.  
+Hi, I'm **Mohammed Kaif**, a passionate and results-driven **Java Full Stack Developer** worked at **Airobosoft Products and Services LLP**.  
 I specialize in **Spring Boot**, **RESTful API Development**, and **Microservices Architecture**.  
 
 - **Currently working on:** Enhancing my portfolio and contributing to scalable backend projects  
@@ -9,6 +9,8 @@ I specialize in **Spring Boot**, **RESTful API Development**, and **Microservice
   - Java (8/11), Spring Boot, REST APIs  
   - Python & Django  
   - Job Portal Project  
+  - Real-time Chat Integration with WebSockets  
+  - Activity Feed System with Notifications  
   - DevOps tools like Jenkins & Docker  
   - Database designs with MySQL, Oracle, Cassandra  
 - **Reach out to me:** kaifmohammed037@gmail.com  
@@ -30,6 +32,11 @@ I specialize in **Spring Boot**, **RESTful API Development**, and **Microservice
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![JIRA](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+
+# ✨ Featured Projects:
+- **Job Portal Web App** – End-to-end Django platform with interest-based messaging and real-time chat upon request acceptance  
+- **Activity Feed System** – Built real-time notification and activity log features for user engagement using Django channels and WebSockets  
+- **AI Projects** – Explored prompt engineering and generative AI with Microsoft and DevTown
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=MohammedKaif037&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
