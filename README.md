@@ -69,7 +69,7 @@ Kalpataru Institute of Technology | CGPA: 8.29/10 (2019-2023)
 ---
 
 ## 📊 GitHub Insights  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohammedKaif037&theme=dark&hide_border=false)  
+
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=MohammedKaif037&theme=dark)  
 
 ---
