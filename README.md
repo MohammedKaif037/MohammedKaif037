@@ -1,8 +1,3 @@
-Here is an updated version of your profile, edited to target **Software Engineering roles focused on Data and/or AI**.
-
-I have repositioned your experience to highlight the engineering of data systems (pipelines, optimization, API integration) rather than just the analysis itself. The narrative now emphasizes building the infrastructure that enables data science and AI, which is a perfect fit for a Data/AI-focused Software Engineer.
-
----
 
 # Mohammed Kaif
 ![Profile Views](https://visitcount.itsvg.in/api?id=MohammedKaif037&icon=0&color=0)
