@@ -106,5 +106,7 @@ Kalpataru Institute of Technology | CGPA: 8.29/10 (2019-2023)
 Here is my GitHub contribution graph:
 ![GitHub Contribution Graph](https://github-contribution-graph.ez4o.com/?username=MohammedKaif037&last_n_days=365)
 
+---
+
 
 💡 *Open to Software Engineering roles in the Data and AI space.*
