@@ -35,8 +35,7 @@ Software Engineer with 2.5 years of experience designing and building scalable, 
 - Applied Java Streams and `OffsetDateTime` for efficient temporal data transformation, creating features used by data science teams for predictive supply chain modeling.
 - Designed and implemented automated compliance workflows to secure PII, transforming raw transaction logs into sanitized, analysis-ready datasets for ethical AI training.
 
-***(Placeholder for a potential personal/project: e.g., "RAG-based Document Q&A System")***
-- Developed a prototype question-answering system using **LangChain**, **OpenAI APIs**, and **Streamlit** to demonstrate the integration of LLMs with custom data sources.
+ 
 
 ---
 
