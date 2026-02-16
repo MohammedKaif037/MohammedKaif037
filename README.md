@@ -96,7 +96,7 @@ Kalpataru Institute of Technology | CGPA: 8.29/10 (2019-2023)
 
 ---
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohammedKaif037&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![ GitHub stats](https://github-readme-stats.vercel.app/api?username=MohammedKaif037&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
