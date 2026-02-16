@@ -96,15 +96,11 @@ Kalpataru Institute of Technology | CGPA: 8.29/10 (2019-2023)
 
 ---
 
-[![ GitHub stats](https://github-readme-stats.vercel.app/api?username=MohammedKaif037&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
----
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedKaif037&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-# My Contributions
-Here is my GitHub contribution graph:
-![GitHub Contribution Graph](https://github-contribution-graph.ez4o.com/?username=MohammedKaif037&last_n_days=365)
+
 
 ---
 
