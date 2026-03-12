@@ -1,7 +1,6 @@
 # Mohammed Kaif
-![Profile Views](https://visitcount.itsvg.in/api?id=MohammedKaif037&icon=0&color=0)
-
-## 📍 Contact
+ 
+##  Contact
 Bangalore, India
 📧 [mohammedkaif8516@gmail.com](mailto:mohammedkaif8516@gmail.com)
 🔗 [LinkedIn](https://linkedin.com/in/mohammed-kaif-a7793923a) | [GitHub](https://github.com/MohammedKaif037)
